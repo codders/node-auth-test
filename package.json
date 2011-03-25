@@ -1,0 +1,10 @@
+{ "name":"auth-test",
+  "description":"Test of connect-auth",
+  "version":"0.0.1",
+  "directories":{"lib":"./lib"},
+  "main":"twitter",
+  "author":{"name":"Arthur Taylor",
+            "email":"arthur@aupeo.com"},
+  "dependencies":{"express":">= 2.1.0","connect":">= 1.1.4","connect-auth":">= 0.2.2","oauth":">= 0.9.0"},
+  "repository":{"type":"git","url":"http://github.com/codders/node-auth-test.git"}
+}

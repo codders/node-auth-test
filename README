@@ -1,0 +1,19 @@
+Installation:
+==============
+Using nmod for package management:
+
+nmod deps
+
+to install the libraries
+
+
+Configuration:
+=============
+
+Edit config.js.template to include a working Twitter consumer key and secret, move it to config.js
+
+Running:
+========
+node twitter.js
+
+
